@@ -4,4 +4,6 @@
 	echo $msg ;  
 
 	/** On peux ajouter du text */
+	
+	/**Test de push depuis SCOTCH **/
 ?>
